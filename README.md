@@ -1,4 +1,4 @@
-# for our CIM group at HKU, as junior portfolio managers
+# Introduction
 Have some fun making some algos~
 
 Our approach:
