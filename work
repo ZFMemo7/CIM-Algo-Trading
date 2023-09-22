@@ -1,0 +1,7 @@
+Current work:
+1. Outline comparable companies within an industry (size, financials, region, busines model, etc)
+2. Pull their EV and EBITDA values every 6 month
+3. Apply the average or median (may depend on a skewness test, potentially)
+4. If company's multiple < avg multiple, then undervalued, otherwise, overvalued
+5. Conduct trade, rebalance portfolio every 6 months
+
